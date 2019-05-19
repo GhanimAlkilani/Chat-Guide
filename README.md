@@ -7,7 +7,7 @@ via chat messages or documents, sharing important dates and information regardin
 ## Pictures
 
 #### Log In Screen
-<div style="text-align:center">< style="height: 150px;" img src ="https://github.com/GhanimAlkilani/Chat-Guide/blob/master/Pictures/1.jpg" /></div>
+<div style="text-align:center"><img src ="https://github.com/GhanimAlkilani/Chat-Guide/blob/master/Pictures/1.jpg" /></div>
 
 #### Sign Up Screen
 <div style="text-align:center"><img src ="https://github.com/GhanimAlkilani/Chat-Guide/blob/master/Pictures/2.jpg" /></div>
